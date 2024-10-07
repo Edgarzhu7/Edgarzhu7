@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Edgar Zhu
-- 👀 I’m interested in computer science💻, soccer⚽️, and film🎬.
-- 🌱 I’m currently learning data structures, corporate finance, econometrics, and financial markets.
+- 👀 I’m interested in computer science💻, economics📈, soccer⚽️, and film🎬.
+- 🌱 I’m currently taking machine learning, computer foundations, econometrics, and labor economics.
+- 📑 I'm currently working on a paper of using machine learning to predict mobile prices.
 - 💞️ I’m looking to collaborate on comp sci related start-up projects.
 - 📫 How to reach me: dejiazhu@umich.edu
 
