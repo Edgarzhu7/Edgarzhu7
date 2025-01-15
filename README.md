@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edgar Zhu
 - 👀 I’m interested in computer science💻, economics📈, soccer⚽️, and film🎬.
-- 🌱 I’m currently taking machine learning, computer foundations, econometrics, and labor economics.
-- 📑 I'm currently working on a paper of using machine learning to predict mobile prices.
+- 🌱 I interned at Tencent's AI Lab before.
+- 📑 I’m currently learning web systems and information retrieval & web search.
 - 💞️ I’m looking to collaborate on comp sci related start-up projects.
 - 📫 How to reach me: dejiazhu@umich.edu
 
