@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edgar Zhu
+- 👋 Hi, I’m Edgar Zhu, a junior computer science and economics honors student at the University of Michigan. Go Blue!
 - 👀 I’m interested in computer science💻, economics📈, soccer⚽️, and film🎬.
 - 🌱 I interned at Tencent's AI Lab before.
 - 📑 I’m currently learning web systems and information retrieval & web search.
